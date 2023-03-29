@@ -84,6 +84,7 @@ html {
   background-size: 100%;
   background-position-x: 30%; 
   background-position-y: 50%;
+  background-position: center top;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
