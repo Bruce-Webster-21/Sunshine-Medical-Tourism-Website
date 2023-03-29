@@ -91,14 +91,12 @@ html {
   .home-background-img {
     background-size: 200%;
       background-position-x: 30%; 
-  background-position-y: 50%;
   } 
 }
 @media (max-width: 480px) {
   .home-background-img {
     background-size: 300%;
       background-position-x: 30%; 
-  background-position-y: 50%;
   } 
 }
 
