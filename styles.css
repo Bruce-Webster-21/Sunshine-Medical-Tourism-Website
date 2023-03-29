@@ -82,7 +82,6 @@ html {
   width: 100%;
   height: 100vh;
   background-size: 100%;
-  background-position: 30% 50%;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
@@ -95,7 +94,6 @@ html {
 @media (max-width: 480px) {
   .home-background-img {
     background-size: 300%;
-    background-position: 30% 50%;
   } 
 }
 
